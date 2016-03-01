@@ -10,7 +10,7 @@
   \url{http://fx.sauder.ubc.ca/} to learn more.
 }
 \usage{
-fetchFX(baseCurrency = "USD", targetCurrencies = c("EUR", "AUD"),
+fetchFX(baseCurrency = "USD", targetCurrencies = c("EUR", "JPY"),
         startDate = "2010-01-01",endDate,
         dataFrequency = "daily", notation = "volume")
 }

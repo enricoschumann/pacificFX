@@ -5,6 +5,6 @@ Version: 0.1-1
 Date: 2013-02-11
 Author: Enrico Schumann
 Maintainer: Enrico Schumann <es@enricoschumann.net>
-Description: Download historical FX-data from 'Pacific Exchange Rate Service'
+Description: Download historical FX-data from 'Pacific Exchange Rate Service'.
 License: GPL-3
 LazyLoad: yes
