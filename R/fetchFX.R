@@ -1,5 +1,5 @@
 fetchFX <- function(baseCurrency = "USD",
-                    targetCurrencies = c("EUR", "AUD"),
+                    targetCurrencies = c("EUR", "JPY"),
                     startDate = "2010-01-01",
                     endDate,
                     dataFrequency = "daily",
