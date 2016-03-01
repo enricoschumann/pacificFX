@@ -1,0 +1,7 @@
+2013-02-11  Enrico Schumann  <es@enricoschumann.net>
+
+	* DESCRIPTION (Version): 0.1-1
+
+	* R/fetchFX.R (fetchFX): changed default for 'endDate' to
+	'Sys.Date()'
+
