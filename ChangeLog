@@ -1,3 +1,9 @@
+2018-09-04  Enrico Schumann  <es@enricoschumann.net>
+
+	* DESCRIPTION (Version): 0.1-3
+
+	* NAMESPACE: import utils::flush.console
+
 2016-03-01  Enrico Schumann  <es@enricoschumann.net>
 
         * DESCRIPTION (Version): 0.1-2

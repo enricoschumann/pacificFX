@@ -1,8 +1,8 @@
 Package: pacificFX
 Type: Package
 Title: Download historical FX-data from 'Pacific Exchange Rate Service'
-Version: 0.1-2
-Date: 2016-03-01
+Version: 0.1-3
+Date: 2018-09-04
 Author: Enrico Schumann
 Maintainer: Enrico Schumann <es@enricoschumann.net>
 Description: Download historical FX-data from 'Pacific Exchange Rate Service'.

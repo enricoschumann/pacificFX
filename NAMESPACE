@@ -1,1 +1,3 @@
 exportPattern("fetchFX")
+
+importFrom("utils", "flush.console")
